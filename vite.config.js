@@ -5,5 +5,5 @@ import tailwind from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue(), tailwind()],
-  base : "/timer_v1/"
+  base: "/frontendkadeh/",
 })
